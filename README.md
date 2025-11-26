@@ -6,8 +6,6 @@ Repositori ini berisi hasil analisis kinerja sistem antrian kendaraan roda dua p
 
 ---
 
-## 📌 Ringkasan Laporan
-
 Penelitian ini menganalisis performa antrian dengan memodelkan:
 
 - Kedatangan pelanggan → **Distribusi Poisson**
@@ -25,7 +23,7 @@ Metode yang digunakan adalah **M/M/1 Queueing Model**, dengan perhitungan:
 
 ---
 
-## 📊 Hasil Utama
+## Hasil Utama
 
 | Parameter | Nilai |
 |----------|-------|
@@ -41,5 +39,3 @@ Metode yang digunakan adalah **M/M/1 Queueing Model**, dengan perhitungan:
 Sistem berada dalam kondisi stabil dan efisien. Satu dispenser Pertamax dinilai cukup untuk menangani beban kedatangan dengan waktu tunggu relatif singkat.
 
 ---
-
-## 🗂 Struktur Folder
